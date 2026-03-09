@@ -1,3 +1,3 @@
-module ://github.com
+module tracker
 
 go 1.21
